@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Valentyna Sheludko</h1>
 <h3 align="center">A passionate QA automation engineer!</h3>
 
