@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Valentyna Sheludko</h1>
 <h3 align="center">A passionate QA automation engineer!</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/valentynasheludko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentynasheludko" height="30" width="40" /></a>
+### Connect with me : 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/valentynasheludko/)
+[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:vladislavnovik007@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=rd)](https://www.facebook.com/n0vka/)
   
 
 <h3 align="left">Tools I use:</h3> 
