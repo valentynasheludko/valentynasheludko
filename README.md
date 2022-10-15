@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 My name is Valentyna!</h1>
 <h3 align="center">I'm a Software QA Manual and Automation Engineer.<img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0331.gif" border="0" alt="animated-computer-image-0331" width="50" /></a></h3>
-<h4 ## I am a QA Manual and Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
+<h4 
+## I am a QA Manual and Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55">
 ## - :telescope: I’m working as a QA Software Engineer and doing testing,coding in different Languages(Python,JavaScript,SQL,HTML),services and programs.
 ## - :seedling: I finished the QA at Silicon Valley School(California).
 ## - :zap:
