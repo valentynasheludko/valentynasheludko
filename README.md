@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/chrome/chrome-original-wordmark.svg" title="Chrome" alt="Chrome" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="50"/>  
-  <img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="60"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="50"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg?short_path=7339449" title= "Slack" alt ="Slack" width="40" height="40"/>&nbsp;
