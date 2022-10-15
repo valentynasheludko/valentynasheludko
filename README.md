@@ -21,6 +21,7 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="60"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg?short_path=7339449" title= "Slack" alt ="Slack" width="40" height="40"/>&nbsp;
 
 
 
