@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋 My name is Valentyna!</h1>
 <h3 align="center">I'm a Software QA Manual and Automation Engineer.<img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0331.gif" border="0" alt="animated-computer-image-0331" width="50" /></a></h3>
 
+---
+  
+<div align="center">
+      <img src="https://bugza.info/wp-content/uploads/2020/05/InstantQA_Blogpost.jpg" width="1000" height="500"/>
+</div> 
+
+---
+
 ### Connect with me : 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/valentynasheludko/)
 [![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:valichka.sheludko@gmail.com)
