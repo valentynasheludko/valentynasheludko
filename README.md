@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋 My name is Valentyna!</h1>
 <h3 align="center">I'm a Software QA Manual and Automation Engineer.<img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0331.gif" border="0" alt="animated-computer-image-0331" width="50" /></a></h3>
 
----
-  
-<div align="center">
-      <img src="https://bugza.info/wp-content/uploads/2020/05/InstantQA_Blogpost.jpg" width="1000" height="500"/>
-</div> 
-
----
-
 ### Connect with me : 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/valentynasheludko/)
 [![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:valichka.sheludko@gmail.com)
@@ -36,6 +28,14 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="google" alt="google" width="50"/height="50"/>&nbsp;
 <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="Postman" alt="Postman" width="50" height="50"/> 
 </div>
+
+---
+  
+<div align="center">
+      <img src="https://bugza.info/wp-content/uploads/2020/05/InstantQA_Blogpost.jpg" width="1000" height="500"/>
+</div> 
+
+---
 
 
 
