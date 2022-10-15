@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Valentyna Sheludko</h1>
-<h3 align="center">### Hi 👋 I'm a Software QA Manual and Automation Engineer.<img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0331.gif" border="0" alt="animated-computer-image-0331" width="50" /></a></h3>
+<h1 align="center">Hi 👋, My name is Valentyna!</h1>
+<h3 align="center">I'm a Software QA Manual and Automation Engineer.<img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0331.gif" border="0" alt="animated-computer-image-0331" width="50" /></a></h3>
 
 ### Connect with me : 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/valentynasheludko/)
