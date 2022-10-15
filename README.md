@@ -3,8 +3,8 @@
 
 ### Connect with me : 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/valentynasheludko/)
-[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:vladislavnovik007@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=rd)](https://www.facebook.com/n0vka/)
+[![Gmail](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=Gmail&logoColor=rd)](mailto:valichka.sheludko@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=rd)](https://www.facebook.com/valichka.sheludko/)
   
 
 <h3 align="left">Tools I use:</h3> 
